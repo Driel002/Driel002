@@ -4,7 +4,7 @@ Meu nome é Adriel Santos
 
  - Estou estudando na [Alura](https://www.alura.com.br)
  - Estou me desenvolvendo na linguagem JavaScipt
- - Utilo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+ - Utilozo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
 
